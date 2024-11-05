@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukaheani.github.io/SsM/sitemap_index.txt
+Sitemap: https://ukaheani.github.io/XHl/sitemap_index.txt
+Sitemap: https://ukaheani.github.io/YSJ/sitemap_index.txt
+Sitemap: https://ukaheani.github.io/qtF/sitemap_index.txt
